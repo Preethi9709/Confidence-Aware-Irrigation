@@ -1,14 +1,4 @@
-"""
-RootMind-Irrigation: Confidence-Aware Edge AI for Smart Irrigation
-
-Offline training and evaluation script for the RootMind-Irrigation framework.
-This script implements fuzzy feature encoding, PCA dimensionality reduction,
-and PSO-optimized spiking neural network training.
-
-Author: Uma Shankari Kalaiarsan
-Affiliation: Inje University, South Korea
-"""
-
+# RootMind-Irrigation: Confidence-Aware Edge AI for Smart Irrigation
 
 This repository accompanies the research paper:
 
