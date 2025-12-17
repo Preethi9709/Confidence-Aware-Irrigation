@@ -72,3 +72,7 @@ The output is a **confidence-aware ON/OFF irrigation decision**, deployed direct
 - Suitable for greenhouses and small-scale agriculture
 
 ---
+## 👤 Author
+**Uma Shankari Kalaiarsan**  
+Master’s Researcher – Digital Anti Aging Healthcare  
+Inje University, South Korea
