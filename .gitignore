@@ -205,8 +205,10 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
-# Block all datasets
+# Block all datasets by default
 data/**/*.csv
+data/**/*.xlsx
+data/**/*.parquet
 
-# Allow only the demo sample
+# Allow only the demo sample dataset
 !data/sample/dataset_sample.csv
