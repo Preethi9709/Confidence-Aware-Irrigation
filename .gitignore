@@ -205,3 +205,8 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+# Block all datasets
+data/**/*.csv
+
+# Allow only the demo sample
+!data/sample/dataset_sample.csv
