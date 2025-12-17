@@ -71,6 +71,12 @@ The output is a **confidence-aware ON/OFF irrigation decision**, deployed direct
 - Fail-safe pump control
 - Suitable for greenhouses and small-scale agriculture
 
+Only a small sample file is included in this repository:
+`data/sample/dataset_sample.csv`.
+
+The full dataset is not shared in the repo due to size/licensing constraints.
+
+
 ---
 ## 👤 Author
 **Uma Shankari Kalaiarsan**  
