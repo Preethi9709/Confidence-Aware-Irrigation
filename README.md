@@ -1,4 +1,4 @@
-# Confidence-Aware Edge AI for Smart Irrigation
+# # RootMind irrigation: Confidence-Aware Edge AI for Smart Irrigation
 
 This repository accompanies the research paper:
 
