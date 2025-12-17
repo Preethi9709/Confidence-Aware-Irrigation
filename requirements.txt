@@ -1,1 +1,11 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+torch
+snntorch
+pyswarms
+scikit-fuzzy
+scipy
+xgboost
 
