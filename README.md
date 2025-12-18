@@ -83,21 +83,35 @@ The full dataset is not shared in the repo due to size/licensing constraints.
 The following figures summarize the offline training behaviour,
 classification performance, confidence-aware decision stability,
 and deployment characteristics of the proposed RootMindAI framework.
+## Offline Training and Edge Deployment Results
 
-### Training Dynamics
-![Epoch Accuracy and Loss](assets/offline_results/Figure10a_Epoch_Accuracy_Loss.png)
+The following figures summarize offline training behaviour, confidence-aware
+decision stability, and real-time edge deployment characteristics of the
+proposed RootMindAI framework.
 
-### Classification Performance
-![Epoch F1 and Accuracy](assets/offline_results/Figure10b_Epoch_F1_Accuracy.png)
+### Offline Training Dynamics
+![Epoch Accuracy and Loss](assets/offline_results/Figure10b_Epoch_F1_Accuracy.png)
+![Epoch F1 and Accuracy](assets/offline_results/Figure9e_3D_Epoch_F1_Confidence.png)
 
-### Confidence-Aware Decisions
-![Accuracy vs Confidence](assets/offline_results/Figure9d_Accuracy_vs_Confidence.png)
-
-### Deployment Behaviour
+### Confidence-Aware Decision Analysis
 ![Valve Saturation Heatmap](assets/offline_results/vlag_r_saturated_heatmap1.png)
-
-### 3D Performance Analysis
 ![3D Accuracy–Confidence Surface](assets/offline_results/3D_accuracy_confidence_final1.png)
+
+### Edge Deployment Results
+![Pump Status Over Time](assets/deployment_results/pump_status_over_time.png)
+![Inference Latency Over Time](assets/deployment_results/05_latency_timeseries.png)
+
+<details>
+<summary><b>Additional Offline and Deployment Figures</b></summary>
+
+Supplementary offline analysis and deployment evaluation figures
+(across multiple soil and environmental scenarios) are available in:
+
+- `assets/offline_results/`
+- `assets/deployment_results/`
+
+</details>
+
 
 
 ---
