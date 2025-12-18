@@ -76,6 +76,23 @@ Only a small sample file is included in this repository:
 
 The full dataset is not shared in the repo due to size/licensing constraints.
 
+## Offline Results (Evidence)
+
+The following figures summarize the offline training behaviour,
+classification performance, and confidence-aware decision stability
+of the proposed RootMindAI framework.
+
+### Training Dynamics
+![Epoch Accuracy and Loss](assets/offline_results/Figure10a_Epoch_Accuracy_Loss.png)
+
+### Classification Performance
+![Epoch F1 and Accuracy](assets/offline_results/Figure10b_Epoch_F1_Accuracy.png)
+
+### Confidence-Aware Decisions
+![Accuracy vs Confidence](assets/offline_results/Figure9d_Accuracy_vs_Confidence.png)
+
+### Deployment Behaviour
+![Valve Saturation Heatmap](assets/offline_results/vlag_r_saturated_heatmap1.png)
 
 ---
 ## 👤 Author
