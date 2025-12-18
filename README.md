@@ -78,9 +78,11 @@ The full dataset is not shared in the repo due to size/licensing constraints.
 
 ## Offline Results (Evidence)
 
+## Offline Results (Evidence)
+
 The following figures summarize the offline training behaviour,
-classification performance, and confidence-aware decision stability
-of the proposed RootMindAI framework.
+classification performance, confidence-aware decision stability,
+and deployment characteristics of the proposed RootMindAI framework.
 
 ### Training Dynamics
 ![Epoch Accuracy and Loss](assets/offline_results/Figure10a_Epoch_Accuracy_Loss.png)
@@ -93,6 +95,10 @@ of the proposed RootMindAI framework.
 
 ### Deployment Behaviour
 ![Valve Saturation Heatmap](assets/offline_results/vlag_r_saturated_heatmap1.png)
+
+### 3D Performance Analysis
+![3D Accuracy–Confidence Surface](assets/offline_results/3D_accuracy_confidence_final1.png)
+
 
 ---
 ## 👤 Author
